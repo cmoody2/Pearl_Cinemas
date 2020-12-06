@@ -3,5 +3,4 @@
  
  Technologies used in creation:
  - HTML
- - CSS
  - Bootstrap
